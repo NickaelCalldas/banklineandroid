@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Santander Dev Week</string>
+    <string name="txt_welcome">Olá, bem-vindo(a) ao Santander Dev Week, digite um id para visualizar seu extrato bancário:</string>
+
+    <string name="continuar">Continuar</string>
+    <string name="textteste">textTeste</string>
+    <string name="txt_id_correntista">ID do Correntista</string>
+</resources>
